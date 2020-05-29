@@ -1153,9 +1153,9 @@ h5 {
 
 .site-section-hero,
 .site-section-hero .row {
-    max-width: 100%;
-    height: auto;
-    /* height: 100vh; */
+    /* max-width: 100%;
+    height: auto; */
+    height: 100vh;
     min-height: 500px;
     z-index: 2;
     position: relative
@@ -1172,6 +1172,8 @@ h5 {
 }
 
 .bg-image {
+    /* width: 100%;
+    height: auto; */
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat
