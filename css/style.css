@@ -22,6 +22,14 @@ a {
     transition: .3s all ease
 }
 
+@media only screen and (max-width: 480px) {
+    .custom-header {
+        background-image: url('https://cdn.colorlib.com/illdy/wp-content/uploads/sites/11/2016/03/front-page-project-1.jpg') !important;
+        height: 200px !important;
+    }
+}
+
+
 a:hover {
     text-decoration: none
 }
@@ -1091,8 +1099,8 @@ h5 {
 .site-mobile-menu .site-mobile-menu-body .site-nav-wrap+.site-nav-wrap li,
 .site-mobile-menu .site-mobile-menu-body .site-nav-wrap+.site-nav-wrap li a {
     float: none;
-    width: auto;
-    display: inline
+    width: 100vw;
+    /* display: inline; */
 }
 
 .blog-entry .img-wrap {
