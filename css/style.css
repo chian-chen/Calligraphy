@@ -22,12 +22,12 @@ a {
     transition: .3s all ease
 }
 
-@media only screen and (max-width: 480px) {
+/* @media only screen and (max-width: 480px) {
     .custom-header {
         background-image: url('https://cdn.colorlib.com/illdy/wp-content/uploads/sites/11/2016/03/front-page-project-1.jpg') !important;
         height: 200px !important;
     }
-}
+} */
 
 
 a:hover {
@@ -1191,9 +1191,13 @@ h5 {
     padding: 7em 0
 }
 
+/* 改動 */
 .site-section.darken-bg {
     background: #1a1a1a;
-    position: relative
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
 }
 
 .site-section.darken-bg:before {
