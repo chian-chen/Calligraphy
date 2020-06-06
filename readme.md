@@ -7,7 +7,7 @@ https://colorlib.com/wp/template/noah/
 
 （其實還有一大堆，但最後都沒有用，但css檔改來改去可能有一些殘留的東西沒刪我也搞不清楚了）
 
-一堆參考網站（簡單附上三個）：
+參考網站（附上主要三個）：
 https://codepen.io/KryptoniteDove/post/responsive-web-design-vs-mobile-development
 https://www.w3schools.com/css/default.asp
 https://colorlib.com/wp/forums/topic/header-image-appearing-different-size-on-iphone-and-ipad/
@@ -33,3 +33,14 @@ https://colorlib.com/wp/forums/topic/header-image-appearing-different-size-on-ip
 用模板在很快很方便的同時，因為整個不是自己寫的，一堆東西都看不懂，檔案也不敢亂刪，弄來弄去虛耗了一堆時間，然後還是找不到。
 
 另外還有，在本地端icon會連不上無法顯示，我一開始以為是我改動到什麼地方造成的，也找了好久問題在哪裡。
+
+
+一些心得：
+
+要說我的網頁有什麼特色，大概是圖片很多要跑很久，以前存圖片都不會去省記憶體（之後一定改掉但最近實在很忙），在這此之後終於了解平日存圖時以小型檔案為主的重要性。
+
+因爲才大一，實在寫不出什麼經歷，只好多放一點圖片，但這種圖片排法看起來又很容易亂（有點類似instagram的狀況），目前還想不到好解法，以後拍照可能要多注意風格的統一吧，很多原稿很好看的都被我拍得醜。
+
+做出來的東西跟範例相比，感覺實在有點不像履歷，不過姑且可以當作不同風格吧，推銷自己為設計師，設計師總有點怪怪的地方（？）
+
+平日裡也很常寫文章，結果關鍵時刻才發現都無法拿出來面對大眾，也是滿挫折的，發現自己會的東西還太少。
