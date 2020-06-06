@@ -868,7 +868,7 @@ h5 {
     height: 100vh;
     min-height: 400px;
     overflow: auto;
-    background: #222020;
+    background: rgba(31, 32, 34, 0.75);
     padding: 30px;
     text-align: left;
     position: fixed;
@@ -1155,7 +1155,7 @@ h5 {
     right: 0;
     bottom: 0;
     top: 0;
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0.2);
     z-index: 1
 }
 
@@ -1191,7 +1191,10 @@ h5 {
     padding: 7em 0
 }
 
-/* 改動 */
+/* 改動 
+background-size: cover;
+background-position: top center;
+background-repeat: no-repeat;*/
 .site-section.darken-bg {
     background: #1a1a1a;
     position: relative;
