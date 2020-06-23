@@ -307,7 +307,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', '/images_upper_resize/decorate4_b.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', '/images/decorate4_b.png').attr('class', 'dragme').attr('height', '440px').attr('width', '440px')
         a.append($picture)
     })
 })
