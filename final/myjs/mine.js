@@ -599,6 +599,26 @@ $(() => {
 
 })
 
+$(() => {
+    $("#download").on('click', function () {
+        var element = $("#displayarea"); // global variable
+        // var getCanvas; // global variable
+        html2canvas(element, {
+            onrendered: function (canvas) {
+                $("#previewImage").append(canvas);
+                // getCanvas = canvas;
+            }
+        });
+    });
+})
+
+$(() => {
+    $('#clear2').on('click', () => {
+
+        $('#previewImage').empty()
+    })
+})
+
 
 
 
@@ -687,23 +707,6 @@ $(() => {
 
 //有一點點問題
 
-$("#download").on('click', function () {
-    var element = $("#displayarea"); // global variable
-    // var getCanvas; // global variable
-    html2canvas(element, {
-        onrendered: function (canvas) {
-            $("#previewImage").append(canvas);
-            // getCanvas = canvas;
-        }
-    });
-});
-
-$(() => {
-    $('#clear2').on('click', () => {
-
-        $('#previewImage').empty()
-    })
-})
 
 
 
