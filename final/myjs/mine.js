@@ -6,6 +6,13 @@ $(() => {
 })
 
 $(() => {
+    $('#clear2').on('click', () => {
+
+        $('#displayarea>.col').empty()
+    })
+})
+
+$(() => {
     $('#A').on('click', () => {
 
 
@@ -300,7 +307,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', '/images/decorate4.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', '/images_upper_resize/decorate4.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
         a.append($picture)
     })
 })
