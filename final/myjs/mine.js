@@ -338,7 +338,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "/images_after/ff.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "/images_after/ff.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
         a.append($picture)
     })
 })
@@ -348,7 +348,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "/images_after/gg.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "/images_after/gg.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
         a.append($picture)
     })
 })
@@ -388,7 +388,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "/images_after/kk.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "/images_after/kk.png").attr('class', 'dragme').attr('height', '250px').attr('width', '250px')
         a.append($picture)
     })
 })
@@ -398,7 +398,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "/images_after/ll.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "/images_after/ll.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
         a.append($picture)
     })
 })
@@ -528,7 +528,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "/images_after/yy.png").attr('class', 'dragme').attr('height', '280px').attr('width', '280px')
+        $picture = $('<img>').attr('src', "/images_after/yy.png").attr('class', 'dragme').attr('height', '300px').attr('width', '300px')
         a.append($picture)
     })
 })
