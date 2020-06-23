@@ -1,0 +1,352 @@
+#displayarea {
+    height: auto;
+    width: 100wh;
+    background-color: white;
+    border-radius: 5%;
+}
+
+.dragme {
+    position: relative;
+    cursor: move;
+    border-radius: 20%;
+    background-position-x: 0px;
+    display: inline-block;
+    background-size: cover;
+}
+
+
+.img-icon {
+    width: 80px;
+    height: 80px;
+    background-color: #9e9e9e80;
+    background-size: cover;
+    border-radius: 20%;
+    background-position-x: 0px;
+    display: inline-block;
+}
+
+.img-Picture {
+    width: 500px;
+    height: 500px;
+    background-color: #9e9e9e80;
+    background-size: cover;
+    border-radius: 20%;
+    background-position-x: 0px;
+    display: inline-block;
+}
+
+.img-icon:hover {
+    filter: sepia() saturate(4) hue-rotate(150deg);
+}
+
+.img-icon:active {
+    filter: none;
+}
+
+
+.img-A {
+    background-image: url(images/A.jpg);
+    background-size: cover;
+}
+
+.img-B {
+    background-image: url(images/B.png);
+    background-size: cover;
+}
+
+.img-C {
+    background-image: url(images/C.png);
+    background-size: cover;
+}
+
+.img-D {
+    background-image: url(images/D.png);
+    background-size: cover;
+}
+
+.img-E {
+    background-image: url(images/E.png);
+    background-size: cover;
+}
+
+.img-F {
+    background-image: url(images/F.png);
+    background-size: cover;
+}
+
+.img-G {
+    background-image: url(images/G.png);
+    background-size: cover;
+}
+
+.img-H {
+    background-image: url(images/H.png);
+    background-size: cover;
+}
+
+.img-I {
+    background-image: url(images/I.png);
+    background-size: cover;
+}
+
+.img-J {
+    background-image: url(images/J.png);
+    background-size: cover;
+}
+
+.img-K {
+    background-image: url(images/K.png);
+    background-size: cover;
+}
+
+.img-L {
+    background-image: url(images/L.png);
+    background-size: cover;
+}
+
+.img-M {
+    background-image: url(images/M.png);
+    background-size: cover;
+}
+
+.img-N {
+    background-image: url(images/N.png);
+    background-size: cover;
+}
+
+.img-O {
+    background-image: url(images/O.png);
+    background-size: cover;
+}
+
+.img-P {
+    background-image: url(images/P.png);
+    background-size: cover;
+}
+
+.img-Q {
+    background-image: url(images/Q.png);
+    background-size: cover;
+}
+
+.img-R {
+    background-image: url(images/R.png);
+    background-size: cover;
+}
+
+.img-S {
+    background-image: url(images/S.png);
+    background-size: cover;
+}
+
+.img-T {
+    background-image: url(images/T.png);
+    background-size: cover;
+}
+
+.img-U {
+    background-image: url(images/U.png);
+    background-size: cover;
+}
+
+.img-V {
+    background-image: url(images/V.png);
+    background-size: cover;
+}
+
+.img-W {
+    background-image: url(images/W.png);
+    background-size: cover;
+}
+
+.img-X {
+    background-image: url(images/X.png);
+    background-size: cover;
+}
+
+.img-Y {
+    background-image: url(images/Y.png);
+    background-size: cover;
+}
+
+.img-Z {
+    background-image: url(images/Z.png);
+    background-size: cover;
+}
+
+
+.img-aa {
+    background-image: url(images_reload/aa.png);
+    background-size: cover;
+}
+
+.img-bb {
+    background-image: url(images_reload/bb.png);
+    background-size: cover;
+}
+
+.img-cc {
+    background-image: url(images_reload/cc.png);
+    background-size: cover;
+}
+
+.img-dd {
+    background-image: url(images_reload/dd.png);
+    background-size: cover;
+}
+
+.img-ee {
+    background-image: url(images_reload/ee.png);
+    background-size: cover;
+}
+
+.img-ff {
+    background-image: url(images_reload/ff.png);
+    background-size: cover;
+}
+
+.img-gg {
+    background-image: url(images_reload/gg.png);
+    background-size: cover;
+}
+
+.img-hh {
+    background-image: url(images_reload/hh.png);
+    background-size: cover;
+}
+
+.img-ii {
+    background-image: url(images_reload/ii.png);
+    background-size: cover;
+}
+
+.img-jj {
+    background-image: url(images_reload/jj.png);
+    background-size: cover;
+}
+
+.img-kk {
+    background-image: url(images_reload/kk.png);
+    background-size: cover;
+}
+
+.img-ll {
+    background-image: url(images_reload/ll.png);
+    background-size: cover;
+}
+
+.img-mm {
+    background-image: url(images_reload/mm.png);
+    background-size: cover;
+}
+
+.img-nn {
+    background-image: url(images_reload/nn.png);
+    background-size: cover;
+}
+
+.img-oo {
+    background-image: url(images_reload/oo.png);
+    background-size: cover;
+}
+
+.img-pp {
+    background-image: url(images_reload/pp.png);
+    background-size: cover;
+}
+
+.img-qq {
+    background-image: url(images_reload/qq.png);
+    background-size: cover;
+}
+
+.img-rr {
+    background-image: url(images_reload/rr.png);
+    background-size: cover;
+}
+
+.img-ss {
+    background-image: url(images_reload/ss.png);
+    background-size: cover;
+}
+
+.img-tt {
+    background-image: url(images_reload/tt.png);
+    background-size: cover;
+}
+
+.img-uu {
+    background-image: url(images_reload/uu.png);
+    background-size: cover;
+}
+
+.img-vv {
+    background-image: url(images_reload/vv.png);
+    background-size: cover;
+}
+
+.img-ww {
+    background-image: url(images_reload/ww.png);
+    background-size: cover;
+}
+
+.img-xx {
+    background-image: url(images_reload/xx.png);
+    background-size: cover;
+}
+
+.img-yy {
+    background-image: url(images_reload/yy.png);
+    background-size: cover;
+}
+
+.img-zz {
+    background-image: url(images_reload/zz.png);
+    background-size: cover;
+}
+
+.img-clear {
+    background-image: url(images/clear.png);
+    background-size: cover;
+}
+
+.img-save {
+    background-image: url(images/save.png);
+    background-size: cover;
+}
+
+
+.separateleft {
+    display: inline-block;
+    width: 55px;
+}
+
+.separate {
+    display: inline-block;
+    width: 3px;
+}
+
+.changeline-more {
+    display: block;
+    height: 20px;
+    width: 100vw;
+}
+
+.changeline {
+    display: block;
+    height: 3px;
+    width: 100vw;
+}
+
+.changelinelong {
+    display: block;
+    height: 410px;
+    width: 828px;
+}
+
+.link {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 20%;
+}
