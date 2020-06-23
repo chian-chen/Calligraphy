@@ -277,7 +277,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', '/images/decorate.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', '/images/decorate_b.png').attr('class', 'dragme').attr('height', '400px').attr('width', '400px')
         a.append($picture)
     })
 })
@@ -287,7 +287,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', '/images/decorate2.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', '/images/decorate2_b.png').attr('class', 'dragme').attr('height', '420px').attr('width', '420px')
         a.append($picture)
     })
 })
@@ -297,7 +297,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', '/images/decorate3.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', '/images/decorate3_b.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
         a.append($picture)
     })
 })
@@ -307,7 +307,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', '/images_upper_resize/decorate4.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', '/images_upper_resize/decorate4_b.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
         a.append($picture)
     })
 })
@@ -580,6 +580,10 @@ $(() => {
 })
 
 
+// $(() => {
+//     $('#dragme').draggable();
+// });
+
 
 $(() => {
 
@@ -667,7 +671,7 @@ $(() => {
 })
 
 
-
+////////////////////////////////////////////////////////////////////////
 
 //抄來但沒用的code
 
