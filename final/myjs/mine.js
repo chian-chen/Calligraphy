@@ -265,6 +265,46 @@ $(() => {
     })
 })
 
+$(() => {
+    $('#deco1').on('click', () => {
+
+
+        let a = $('#area')
+        $picture = $('<img>').attr('src', '/images_upper_resize/decorate.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        a.append($picture)
+    })
+})
+
+$(() => {
+    $('#deco2').on('click', () => {
+
+
+        let a = $('#area')
+        $picture = $('<img>').attr('src', '/images_upper_resize/decorate2.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        a.append($picture)
+    })
+})
+
+$(() => {
+    $('#deco3').on('click', () => {
+
+
+        let a = $('#area')
+        $picture = $('<img>').attr('src', '/images_upper_resize/decorate3.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        a.append($picture)
+    })
+})
+
+$(() => {
+    $('#deco4').on('click', () => {
+
+
+        let a = $('#area')
+        $picture = $('<img>').attr('src', '/images_upper_resize/decorate4.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        a.append($picture)
+    })
+})
+
 
 
 

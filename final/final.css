@@ -2,6 +2,7 @@
     height: auto;
     width: 100wh;
     background-color: white;
+    border-radius: 5%;
 }
 
 .dragme {
@@ -306,6 +307,26 @@
 
 .img-clear {
     background-image: url(images/clear.png);
+    background-size: cover;
+}
+
+.img-deco1 {
+    background-image: url(images/decorate.png);
+    background-size: cover;
+}
+
+.img-deco2 {
+    background-image: url(images/decorate2.png);
+    background-size: cover;
+}
+
+.img-deco3 {
+    background-image: url(images/decorate3.png);
+    background-size: cover;
+}
+
+.img-deco4 {
+    background-image: url(images/decorate4.png);
     background-size: cover;
 }
 
