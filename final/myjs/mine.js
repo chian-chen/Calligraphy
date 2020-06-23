@@ -1,14 +1,3 @@
-// $(() => {
-//     $('#A').on('click', () => {
-
-//         console.log("aaaa");
-//         let $col = $('#displayarea>.col');
-//         $picture = $('<div>').attr('class', 'img-Picture img-A dragme')
-//         $col.append($picture)
-//     })
-// })
-
-
 $(() => {
     $('#clear').on('click', () => {
 
@@ -543,8 +532,9 @@ $(() => {
     })
 })
 
-$(() => {
 
+
+$(() => {
 
     function startDrag(e) {
         // determine event object
@@ -725,3 +715,13 @@ $(() => {
 //     // });
 
 // });
+
+// $(() => {
+//     $('#A').on('click', () => {
+
+//         console.log("aaaa");
+//         let $col = $('#displayarea>.col');
+//         $picture = $('<div>').attr('class', 'img-Picture img-A dragme')
+//         $col.append($picture)
+//     })
+// })
