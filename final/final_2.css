@@ -1,0 +1,372 @@
+#displayarea {
+    height: auto;
+    width: 100wh;
+    background-color: white;
+    border-radius: 5%;
+}
+
+.dragme {
+    position: relative;
+    cursor: move;
+    border-radius: 20%;
+    background-position-x: 0px;
+    display: inline-block;
+    background-size: cover;
+}
+
+
+.img-icon {
+    width: 80px;
+    height: 80px;
+    background-color: #9e9e9e80;
+    background-size: cover;
+    border-radius: 20%;
+    background-position-x: 0px;
+    display: inline-block;
+}
+
+.img-Picture {
+    width: 500px;
+    height: 500px;
+    background-color: #9e9e9e80;
+    background-size: cover;
+    border-radius: 20%;
+    background-position-x: 0px;
+    display: inline-block;
+}
+
+.img-icon:hover {
+    filter: sepia() saturate(4) hue-rotate(150deg);
+}
+
+.img-icon:active {
+    filter: none;
+}
+
+
+.img-A {
+    background-image: url(font2_up1/a.png);
+    background-size: cover;
+}
+
+.img-B {
+    background-image: url(font2_up1/b.png);
+    background-size: cover;
+}
+
+.img-C {
+    background-image: url(font2_up1/c.png);
+    background-size: cover;
+}
+
+.img-D {
+    background-image: url(font2_up1/d.png);
+    background-size: cover;
+}
+
+.img-E {
+    background-image: url(font2_up1/e.png);
+    background-size: cover;
+}
+
+.img-F {
+    background-image: url(font2_up1/f.png);
+    background-size: cover;
+}
+
+.img-G {
+    background-image: url(font2_up1/g.png);
+    background-size: cover;
+}
+
+.img-H {
+    background-image: url(font2_up1/h.png);
+    background-size: cover;
+}
+
+.img-I {
+    background-image: url(font2_up1/i.png);
+    background-size: cover;
+}
+
+.img-J {
+    background-image: url(font2_up1/j.png);
+    background-size: cover;
+}
+
+.img-K {
+    background-image: url(font2_up1/k.png);
+    background-size: cover;
+}
+
+.img-L {
+    background-image: url(font2_up1/l.png);
+    background-size: cover;
+}
+
+.img-M {
+    background-image: url(font2_up1/m.png);
+    background-size: cover;
+}
+
+.img-N {
+    background-image: url(font2_up1/n.png);
+    background-size: cover;
+}
+
+.img-O {
+    background-image: url(font2_up1/o.png);
+    background-size: cover;
+}
+
+.img-P {
+    background-image: url(font2_up1/p.png);
+    background-size: cover;
+}
+
+.img-Q {
+    background-image: url(font2_up1/q.png);
+    background-size: cover;
+}
+
+.img-R {
+    background-image: url(font2_up1/R.png);
+    background-size: cover;
+}
+
+.img-S {
+    background-image: url(font2_up1/s.png);
+    background-size: cover;
+}
+
+.img-T {
+    background-image: url(font2_up1/t.png);
+    background-size: cover;
+}
+
+.img-U {
+    background-image: url(font2_up1/u.png);
+    background-size: cover;
+}
+
+.img-V {
+    background-image: url(font2_up1/v.png);
+    background-size: cover;
+}
+
+.img-W {
+    background-image: url(font2_up1/W.png);
+    background-size: cover;
+}
+
+.img-X {
+    background-image: url(font2_up1/x.png);
+    background-size: cover;
+}
+
+.img-Y {
+    background-image: url(font2_up1/y.png);
+    background-size: cover;
+}
+
+.img-Z {
+    background-image: url(font2_up1/z.png);
+    background-size: cover;
+}
+
+
+.img-aa {
+    background-image: url(font2_low1/a.png);
+    background-size: cover;
+}
+
+.img-bb {
+    background-image: url(font2_low1/b.png);
+    background-size: cover;
+}
+
+.img-cc {
+    background-image: url(font2_low1/c.png);
+    background-size: cover;
+}
+
+.img-dd {
+    background-image: url(font2_low1/d.png);
+    background-size: cover;
+}
+
+.img-ee {
+    background-image: url(font2_low1/e.png);
+    background-size: cover;
+}
+
+.img-ff {
+    background-image: url(font2_low1/f.png);
+    background-size: cover;
+}
+
+.img-gg {
+    background-image: url(font2_low1/g.png);
+    background-size: cover;
+}
+
+.img-hh {
+    background-image: url(font2_low1/h.png);
+    background-size: cover;
+}
+
+.img-ii {
+    background-image: url(font2_low1/i.png);
+    background-size: cover;
+}
+
+.img-jj {
+    background-image: url(font2_low1/j.png);
+    background-size: cover;
+}
+
+.img-kk {
+    background-image: url(font2_low1/k.png);
+    background-size: cover;
+}
+
+.img-ll {
+    background-image: url(font2_low1/l.png);
+    background-size: cover;
+}
+
+.img-mm {
+    background-image: url(font2_low1/m.png);
+    background-size: cover;
+}
+
+.img-nn {
+    background-image: url(font2_low1/n.png);
+    background-size: cover;
+}
+
+.img-oo {
+    background-image: url(font2_low1/o.png);
+    background-size: cover;
+}
+
+.img-pp {
+    background-image: url(font2_low1/p.png);
+    background-size: cover;
+}
+
+.img-qq {
+    background-image: url(font2_low1/q.png);
+    background-size: cover;
+}
+
+.img-rr {
+    background-image: url(font2_low1/r.png);
+    background-size: cover;
+}
+
+.img-ss {
+    background-image: url(font2_low1/s.png);
+    background-size: cover;
+}
+
+.img-tt {
+    background-image: url(font2_low1/t.png);
+    background-size: cover;
+}
+
+.img-uu {
+    background-image: url(font2_low1/u.png);
+    background-size: cover;
+}
+
+.img-vv {
+    background-image: url(font2_low1/v.png);
+    background-size: cover;
+}
+
+.img-ww {
+    background-image: url(font2_low1/w.png);
+    background-size: cover;
+}
+
+.img-xx {
+    background-image: url(font2_low1/x.png);
+    background-size: cover;
+}
+
+.img-yy {
+    background-image: url(font2_low1/y.png);
+    background-size: cover;
+}
+
+.img-zz {
+    background-image: url(font2_low1/z.png);
+    background-size: cover;
+}
+
+.img-clear {
+    background-image: url(images/clear.png);
+    background-size: cover;
+}
+
+.img-deco1 {
+    background-image: url(images/decorate.png);
+    background-size: cover;
+}
+
+.img-deco2 {
+    background-image: url(images/decorate2.png);
+    background-size: cover;
+}
+
+.img-deco3 {
+    background-image: url(images/decorate3.png);
+    background-size: cover;
+}
+
+.img-deco4 {
+    background-image: url(images/decorate4.png);
+    background-size: cover;
+}
+
+.img-save {
+    background-image: url(images/save.png);
+    background-size: cover;
+}
+
+
+.separateleft {
+    display: inline-block;
+    width: 55px;
+}
+
+.separate {
+    display: inline-block;
+    width: 3px;
+}
+
+.changeline-more {
+    display: block;
+    height: 20px;
+    width: 100vw;
+}
+
+.changeline {
+    display: block;
+    height: 3px;
+    width: 100vw;
+}
+
+.changelinelong {
+    display: block;
+    height: 410px;
+    width: 828px;
+}
+
+.link {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 20%;
+}

@@ -17,7 +17,7 @@ $(() => {
 
 
         let a = $('#area');
-        $picture = $('<img>').attr('src', 'images_upper_resize/A.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/A.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture);
         $("#area *").draggable({
             stack: "img"
@@ -30,7 +30,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/B.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/B.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -43,7 +43,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/C.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/C.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -56,7 +56,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/D.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/D.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -69,7 +69,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/E.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/E.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -82,7 +82,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/F.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/F.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -95,7 +95,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/G.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/G.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -108,7 +108,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/H.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/H.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -121,7 +121,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/I.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/I.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -134,7 +134,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/J.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/J.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -147,7 +147,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/K.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/K.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -160,7 +160,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/L.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/L.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -173,7 +173,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/M.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/M.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -186,7 +186,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/N.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/N.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -199,7 +199,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/O.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/O.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -212,7 +212,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/P.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/P.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -225,7 +225,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', '/images_upper_resize/Q.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/Q.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -238,7 +238,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/R.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/R.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -251,7 +251,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/S.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/S.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -264,7 +264,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/T.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/T.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -277,7 +277,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/U.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/U.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -290,7 +290,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/V.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/V.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -303,7 +303,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/W.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/W.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -316,7 +316,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/X.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/X.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -329,7 +329,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/Y.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/Y.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -342,7 +342,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', 'images_upper_resize/Z.png').attr('class', 'dragme').attr('height', '500px').attr('width', '500px')
+        $picture = $('<img>').attr('src', 'font2_up2/Z.png').attr('class', 'dragme').attr('height', '350px').attr('width', '350px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -415,7 +415,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/aa.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/a.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -427,7 +427,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/bb.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/b.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -440,7 +440,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/cc.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/c.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -453,7 +453,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/dd.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/d.png").attr('class', 'dragme').attr('height', '230px').attr('width', '230px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -466,7 +466,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/ee.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/e.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -479,7 +479,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/ff.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
+        $picture = $('<img>').attr('src', "font2_low2/f.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -492,7 +492,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/gg.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
+        $picture = $('<img>').attr('src', "font2_low2/g.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -505,7 +505,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/hh.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/h.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -518,7 +518,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/ii.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/i.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -531,7 +531,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/jj.png").attr('class', 'dragme').attr('height', '280px').attr('width', '280px')
+        $picture = $('<img>').attr('src', "font2_low2/j.png").attr('class', 'dragme').attr('height', '280px').attr('width', '280px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -544,7 +544,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/kk.png").attr('class', 'dragme').attr('height', '250px').attr('width', '250px')
+        $picture = $('<img>').attr('src', "font2_low2/k.png").attr('class', 'dragme').attr('height', '250px').attr('width', '250px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -557,7 +557,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/ll.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
+        $picture = $('<img>').attr('src', "font2_low2/l.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -570,7 +570,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/mm.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/m.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -583,7 +583,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/nn.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/n.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -596,7 +596,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/oo.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/o.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -609,7 +609,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/pp.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
+        $picture = $('<img>').attr('src', "font2_low2/p.png").attr('class', 'dragme').attr('height', '230px').attr('width', '230px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -622,7 +622,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/qq.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
+        $picture = $('<img>').attr('src', "font2_low2/q.png").attr('class', 'dragme').attr('height', '220px').attr('width', '220px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -635,7 +635,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/rr.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/r.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -648,7 +648,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/ss.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/s.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -661,7 +661,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/tt.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
+        $picture = $('<img>').attr('src', "font2_low2/t.png").attr('class', 'dragme').attr('height', '240px').attr('width', '240px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -674,7 +674,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/uu.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/u.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -687,7 +687,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/vv.png").attr('class', 'dragme').attr('height', '250px').attr('width', '250px')
+        $picture = $('<img>').attr('src', "font2_low2/v.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -700,7 +700,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/ww.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/w.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -713,7 +713,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/xx.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/x.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -726,7 +726,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/yy.png").attr('class', 'dragme').attr('height', '300px').attr('width', '300px')
+        $picture = $('<img>').attr('src', "font2_low2/y.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
@@ -739,7 +739,7 @@ $(() => {
 
 
         let a = $('#area')
-        $picture = $('<img>').attr('src', "images_after/zz.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
+        $picture = $('<img>').attr('src', "font2_low2/z.png").attr('class', 'dragme').attr('height', '200px').attr('width', '200px')
         a.append($picture)
         $("#area *").draggable({
             stack: "img"
